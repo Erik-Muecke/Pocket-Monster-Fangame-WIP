@@ -11,6 +11,7 @@ public class Main extends Game {
 
         System.out.print ("Hello World2");
         setScreen(new FirstScreen());
+
     }
 
 
